@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.weights
+.env
+venv/
+.venv/
