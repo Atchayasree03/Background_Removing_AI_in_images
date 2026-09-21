@@ -1,5 +1,4 @@
 # Background_Removing_AI_in_images
-# Background_Removing_AI_in_images
 
 ## Overview
 
